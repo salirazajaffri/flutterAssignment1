@@ -1,6 +1,7 @@
 import 'dart:io';
 
 void main() {
+  //-----------Q10-----------------
   print("Enter First number:");
   int? num1 = int.parse(stdin.readLineSync()!);
 
